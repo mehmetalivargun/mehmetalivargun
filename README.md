@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehmetalivargun" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="mehmetalivargun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmetalivargun" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="mehmetalivargun" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
