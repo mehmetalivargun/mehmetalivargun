@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali Vargün</h1>
 <h3 align="center">I'm studying at Yildiz Technical University , Computer Engineering .</h3>
 
-- 🔭 I’m currently working on **Self Driving Car on CARLA**
+- 🔭 I’m currently working on **Self-Driving Car on CARLA**
 
 - 🌱 I’m currently learning **android mobile development.**
 
